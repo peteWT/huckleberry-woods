@@ -3,7 +3,7 @@ This is Huckleberry Woods, a rustic off-grid homestead  in the California Coast 
 
 #+name: name
 #+caption: Mom and Pop on the front porch.
-[[/img/candsontheporch.webp]]
+[[./img/candsontheporch.jpg]]
 
 
 
